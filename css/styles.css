@@ -12,7 +12,7 @@
     color: #434455;
     background-color:#FFFFFF
 }
-.header-logo{
+.header-logo {
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 800;
@@ -20,8 +20,7 @@
     letter-spacing: 0.03em;
     text-align: left;
     text-transform: uppercase;
-    color: #4d5ae5;
-     
+    color: #4d5ae5;   
 }
 .header-logo span {
     color: #2e2f42;
@@ -118,12 +117,8 @@ color: #2e2f42;
     color: #434455;
 }
 
-.header-menu-item {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-align: left;
+
+
 }
 
 .address-menu-item {
@@ -134,9 +129,11 @@ color: #2e2f42;
     text-align: left;
     
 }
+
 .link {
-    text-decoration: none;}
-.list{
+    text-decoration: none;
+}
+.list {
     list-style: none;
 }
 
@@ -161,36 +158,44 @@ background-color: #F4F4FD;
 cursor: pointer;
 }
 
+.header-menu:hover {
+color: #404bbf;
+}
+
+.header-menu:focus {
+color: #404bbf;
+}
 
 .p-btn:hover {
-color: #404bbf
+color: #404bbf;
 
 }
 
 .p-btn:focus {
-    color: #404bbf
+color: #404bbf;
 }
 
 btn:hover {
-    color: #404bbf
+color: #404bbf;
 }
 
 btn:focus {
-    color: #404bbf
+color: #404bbf;
 }
 
 
 .address-menu:hover {
-color: #404bbf
+color: #404bbf;
 }
 .address-menu:focus {
-    color: #404bbf
+color: #404bbf;
 }
+
 .header-menu:hover {
 color: #404bbf;
 }
 .header-menu:focus {
-    color: #404bbf;
+color: #404bbf;
 }
 .p-btn {
     font-family: Roboto;
@@ -234,9 +239,16 @@ letter-spacing: 0.02em;
     color: #4d5ae5;
 }
 .span {
-   color: #f4f4fd;
+   color: #2e2f42;
 }
+
 .body {
 font-family: "Roboto", sans-serif;
+color: #434455;
+}
+.address-menu {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 color: #434455;
 }

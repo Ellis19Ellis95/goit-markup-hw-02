@@ -19,20 +19,24 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;   
+    color: #4d5ae5;
+    text-decoration: none;
 }
-
-.header-logo span {
-    color: #2e2f42;
-
-
-.header-menu {
+.header-menu-item {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.header-logo span {
+    color: #2e2f42;
+
+
+}
+
+
+
 .link {
     text-decoration: none;
 }
@@ -55,11 +59,11 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.address-menu:hover {
+address-menu:hover {
     color: #404bbf;
 }
 
-.address-menu:focus {
+address-menu:focus {
     color: #404bbf;
 }
 

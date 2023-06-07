@@ -73,7 +73,9 @@ body {
     color: #404bbf;
 }
 
-
+.direction-menu-item:hover {
+    color: #2e2f42;
+}
 
 
 
@@ -208,11 +210,11 @@ color: #404bbf;
 color: #404bbf;
 }
 
-btn:hover {
+.btn:hover {
 color: #404bbf;
 }
 
-btn:focus {
+.btn:focus {
 color: #404bbf;
 }
 

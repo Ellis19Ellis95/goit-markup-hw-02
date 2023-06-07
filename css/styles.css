@@ -119,11 +119,14 @@ color: #2e2f42;
     
 }
 .working-title {
-    font-weight: 500;
-    line-height: 1.2;
-    font-size: 20px;
-    color: #2e2f42;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    
+    
 }
 
 .working-menu-item {
@@ -133,10 +136,11 @@ color: #434455;
 
 }
 .team-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 .team {
@@ -166,9 +170,12 @@ color: #2e2f42;
     color: #434455;
 }
 
-
+.team-menu-item {
+background-color: #FFFFFF;
 
 }
+
+
 
 .address-menu-item {
     font-size: 16px;
@@ -270,7 +277,8 @@ letter-spacing: 0.02em;
     color: #4d5ae5;
 }
 .span {
-   color: #2e2f42;
+    color: #f4f4fd;
+
 }
 
 .address-menu {

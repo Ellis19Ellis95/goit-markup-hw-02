@@ -128,7 +128,7 @@ color: #2e2f42;
     
  
     
-    
+
 }
 
 .working-menu-item {
@@ -211,12 +211,14 @@ color: #404bbf;
 }
 
 .p-btn:hover {
-color: #404bbf;
+color: #FFFFFF;
+background-color: #404BBF;
 
 }
 
 .p-btn:focus {
-color: #404bbf;
+color: #FFFFFF;
+background-color: #404BBF;
 }
 
 .btn:hover {

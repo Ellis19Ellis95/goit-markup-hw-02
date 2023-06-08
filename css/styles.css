@@ -236,13 +236,13 @@ color: #404bbf;
 color: #404bbf;
 }
 .p-btn {
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     text-align: center;
-    background: #4D5AE5;
+    background-color: #F4F4FD;
 }
 .p-direction-subtitle {
     font-size: 20px;
@@ -278,6 +278,7 @@ letter-spacing: 0.02em;
 }
 .span {
     color: #f4f4fd;
+    
 
 }
 
